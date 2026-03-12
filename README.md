@@ -15,17 +15,6 @@ I enjoy experimenting with different tech stacks and tools to bring ideas to lif
 
 ---
 
-## 🚀 Currently Working On
-
-### 🎮 Solo Visual Novel Project
-
-- 📝 Story writing & narrative design  
-- ⚙️ Game logic & system implementation  
-- 🎨 UI/UX design  
-- 🧩 Asset creation & integration  
-
----
-
 ## 🛠 Tech & Tools I Use
 
 ### 💻 Programming & Web
